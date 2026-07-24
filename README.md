@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hey, I'm Tanishka Thakur
+# Passionate about Web Development, Problem Solving & Continuous Learning
+### Learning • Building • Growing Every Day 🚀
 
 ## 🐍 Contribution Snake
 
